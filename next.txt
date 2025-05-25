@@ -1,0 +1,11 @@
+component
+routing
+file base 
+ssr=>server is send html
+ssg
+isr
+csr=>js convert into dom
+vite=>static server
+next=>dynamic server
+metadata text
+next15
