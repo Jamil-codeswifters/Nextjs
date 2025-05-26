@@ -1,11 +1,24 @@
-component
+
 routing
 file base 
+dynamic
+nested routing
+nested dynamic routing 
+catch all dynamic routing
+reuseable layout
+metadata text
+route group
+private floder
 ssr=>server is send html
+csr
+static vs dynamci rendering
 ssg
 isr
+Dynamically Rendering Static Pages
+Streaming
+
+
 csr=>js convert into dom
 vite=>static server
 next=>dynamic server
-metadata text
 next15
